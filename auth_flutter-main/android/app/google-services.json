@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850644487194",
+    "project_id": "flutter-uilogin",
+    "storage_bucket": "flutter-uilogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850644487194:android:8f58a7ebd6bfcff3e9d5a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uilogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-7A4t2K7vnhHMCUQruCK4H7vTwzZ8Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
